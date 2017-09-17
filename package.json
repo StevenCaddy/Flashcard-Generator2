@@ -1,0 +1,23 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "\"Create flashcards\"",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenCaddy/Flashcard-Generator2.git"
+  },
+  "author": "Steven Cadwallader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenCaddy/Flashcard-Generator2/issues"
+  },
+  "homepage": "https://github.com/StevenCaddy/Flashcard-Generator2#readme"
+}
